@@ -1,0 +1,4 @@
+# Se ignora la carpeta build
+build/
+# Se ignora la carpeta .vscode
+.vscode/
