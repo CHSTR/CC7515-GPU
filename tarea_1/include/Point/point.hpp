@@ -30,7 +30,7 @@ public:
 
     // Destructor
     ~Point(){
-        std::cout << "Point deleted" << std::endl;
+        //std::cout << "Point deleted" << std::endl;
     }
 
     // Método para obtener la distancia entre dos puntos

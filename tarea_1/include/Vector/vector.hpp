@@ -21,7 +21,7 @@ class Vector{
         
         // Destructor
         ~Vector(){
-            cout << "Vector deleted" << endl;
+            //cout << "Vector deleted" << endl;
         }
 
         // Constructor copia desde un objeto Point

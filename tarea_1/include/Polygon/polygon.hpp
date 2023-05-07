@@ -16,7 +16,7 @@ class Polygon{
         }
 
         ~Polygon(){
-            std::cout << "Polygon deleted" << std::endl;
+            // cout << "Polygon deleted" << endl;
         }
 
         // Se crea el método get_points para obtener la cantidad de puntos del polígono
