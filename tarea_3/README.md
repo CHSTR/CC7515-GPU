@@ -2,7 +2,7 @@
 
 ![Implementacion Cellular Noise](./assets/CN.gif)
 
-## Instrucciones para ejecutar la tarea 1 de GPU
+## Instrucciones para ejecutar la tarea 3 de GPU
 
 1. Instalar Nodejs y npm (https://nodejs.org/es/download/). La versión utilizada para el desarrollo fue la v16.16.0 y la versión de npm fue la 8.11.0.
 2. Instalar las dependencias del proyecto con el comando `npm install`
